@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/data.git/static/css/main.1281d33b.chunk.css",
-    "main.js": "/data.git/static/js/main.bebdcc09.chunk.js",
-    "main.js.map": "/data.git/static/js/main.bebdcc09.chunk.js.map",
-    "runtime-main.js": "/data.git/static/js/runtime-main.31aa90cb.js",
-    "runtime-main.js.map": "/data.git/static/js/runtime-main.31aa90cb.js.map",
-    "static/js/2.319a1dba.chunk.js": "/data.git/static/js/2.319a1dba.chunk.js",
-    "static/js/2.319a1dba.chunk.js.map": "/data.git/static/js/2.319a1dba.chunk.js.map",
-    "static/js/3.ae9f4062.chunk.js": "/data.git/static/js/3.ae9f4062.chunk.js",
-    "static/js/3.ae9f4062.chunk.js.map": "/data.git/static/js/3.ae9f4062.chunk.js.map",
-    "index.html": "/data.git/index.html",
-    "static/css/main.1281d33b.chunk.css.map": "/data.git/static/css/main.1281d33b.chunk.css.map",
-    "static/js/2.319a1dba.chunk.js.LICENSE.txt": "/data.git/static/js/2.319a1dba.chunk.js.LICENSE.txt",
-    "static/media/MxNet Layout.03379fe9.PNG": "/data.git/static/media/MxNet Layout.03379fe9.PNG",
-    "static/media/RTS Details Page.334d3f87.PNG": "/data.git/static/media/RTS Details Page.334d3f87.PNG"
+    "main.css": "/data/static/css/main.1281d33b.chunk.css",
+    "main.js": "/data/static/js/main.bebdcc09.chunk.js",
+    "main.js.map": "/data/static/js/main.bebdcc09.chunk.js.map",
+    "runtime-main.js": "/data/static/js/runtime-main.43ffa0ab.js",
+    "runtime-main.js.map": "/data/static/js/runtime-main.43ffa0ab.js.map",
+    "static/js/2.319a1dba.chunk.js": "/data/static/js/2.319a1dba.chunk.js",
+    "static/js/2.319a1dba.chunk.js.map": "/data/static/js/2.319a1dba.chunk.js.map",
+    "static/js/3.ae9f4062.chunk.js": "/data/static/js/3.ae9f4062.chunk.js",
+    "static/js/3.ae9f4062.chunk.js.map": "/data/static/js/3.ae9f4062.chunk.js.map",
+    "index.html": "/data/index.html",
+    "static/css/main.1281d33b.chunk.css.map": "/data/static/css/main.1281d33b.chunk.css.map",
+    "static/js/2.319a1dba.chunk.js.LICENSE.txt": "/data/static/js/2.319a1dba.chunk.js.LICENSE.txt",
+    "static/media/MxNet Layout.03379fe9.PNG": "/data/static/media/MxNet Layout.03379fe9.PNG",
+    "static/media/RTS Details Page.334d3f87.PNG": "/data/static/media/RTS Details Page.334d3f87.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.31aa90cb.js",
+    "static/js/runtime-main.43ffa0ab.js",
     "static/js/2.319a1dba.chunk.js",
     "static/css/main.1281d33b.chunk.css",
     "static/js/main.bebdcc09.chunk.js"
