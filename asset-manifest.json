@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/data/static/css/main.1281d33b.chunk.css",
-    "main.js": "/data/static/js/main.338f08e5.chunk.js",
-    "main.js.map": "/data/static/js/main.338f08e5.chunk.js.map",
-    "runtime-main.js": "/data/static/js/runtime-main.43ffa0ab.js",
-    "runtime-main.js.map": "/data/static/js/runtime-main.43ffa0ab.js.map",
-    "static/js/2.31f04f17.chunk.js": "/data/static/js/2.31f04f17.chunk.js",
-    "static/js/2.31f04f17.chunk.js.map": "/data/static/js/2.31f04f17.chunk.js.map",
-    "static/js/3.ae9f4062.chunk.js": "/data/static/js/3.ae9f4062.chunk.js",
-    "static/js/3.ae9f4062.chunk.js.map": "/data/static/js/3.ae9f4062.chunk.js.map",
+    "main.css": "/data/static/css/main.14851735.chunk.css",
+    "main.js": "/data/static/js/main.bfe0104a.chunk.js",
+    "main.js.map": "/data/static/js/main.bfe0104a.chunk.js.map",
+    "runtime-main.js": "/data/static/js/runtime-main.0c7c3c13.js",
+    "runtime-main.js.map": "/data/static/js/runtime-main.0c7c3c13.js.map",
+    "static/js/2.3a04e72a.chunk.js": "/data/static/js/2.3a04e72a.chunk.js",
+    "static/js/2.3a04e72a.chunk.js.map": "/data/static/js/2.3a04e72a.chunk.js.map",
+    "static/js/3.f0c56473.chunk.js": "/data/static/js/3.f0c56473.chunk.js",
+    "static/js/3.f0c56473.chunk.js.map": "/data/static/js/3.f0c56473.chunk.js.map",
     "index.html": "/data/index.html",
-    "static/css/main.1281d33b.chunk.css.map": "/data/static/css/main.1281d33b.chunk.css.map",
-    "static/js/2.31f04f17.chunk.js.LICENSE.txt": "/data/static/js/2.31f04f17.chunk.js.LICENSE.txt",
+    "static/css/main.14851735.chunk.css.map": "/data/static/css/main.14851735.chunk.css.map",
+    "static/js/2.3a04e72a.chunk.js.LICENSE.txt": "/data/static/js/2.3a04e72a.chunk.js.LICENSE.txt",
     "static/media/MxNet Layout.03379fe9.PNG": "/data/static/media/MxNet Layout.03379fe9.PNG",
-    "static/media/RTS Details Page.334d3f87.PNG": "/data/static/media/RTS Details Page.334d3f87.PNG"
+    "static/media/RTS Details Page.0e8cebbc.PNG": "/data/static/media/RTS Details Page.0e8cebbc.PNG",
+    "static/media/Workflow Home.af671b9d.PNG": "/data/static/media/Workflow Home.af671b9d.PNG",
+    "static/media/mxi-workscope.e01e4fc2.png": "/data/static/media/mxi-workscope.e01e4fc2.png",
+    "static/media/vendor_example2.86291c1c.PNG": "/data/static/media/vendor_example2.86291c1c.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.43ffa0ab.js",
-    "static/js/2.31f04f17.chunk.js",
-    "static/css/main.1281d33b.chunk.css",
-    "static/js/main.338f08e5.chunk.js"
+    "static/js/runtime-main.0c7c3c13.js",
+    "static/js/2.3a04e72a.chunk.js",
+    "static/css/main.14851735.chunk.css",
+    "static/js/main.bfe0104a.chunk.js"
   ]
 }
